@@ -1,6 +1,4 @@
 # Enterprise Integration Patterns
- <!-- .slide: data-background="https://i.creativecommons.org/l/by/4.0/88x31.png" data-background-size="88px" data-background-repeat="none" data-background-position="2% 98%" -->
-
 
 
 ## base premises
@@ -138,22 +136,22 @@ first, the basics
 v
 
 ### Message
-<!-- .slide: data-background="img/Message.png" data-background-size="400px" data-background-repeat="none" data-background-position="85% 50%" -->
+<img src="img/Message.png" width="400px"></img>
 
 v
 
 ### Endpoint
-<!-- .slide: data-background="img/Endpoint.png" data-background-size="400px" data-background-repeat="none" data-background-position="85% 50%" -->
+<img src="img/Endpoint.png" width="400px"></img>
 
 v
 
 ### Channel
-<!-- .slide: data-background="img/Channel.png" data-background-size="400px" data-background-repeat="none" data-background-position="85% 50%" -->
+<img src="img/Channel.png" width="400px"></img>
 
 v
 
 ### Publish/Subscribe Channel
-<!-- .slide: data-background="img/Publish.png" data-background-size="400px" data-background-repeat="none" data-background-position="85% 50%" -->
+<img src="img/Publish.png" width="400px"></img>
 
 v
 
@@ -161,7 +159,8 @@ v
 1. read incoming files from an FTP
 2. pass through a queue
 3. pass it to a file share
-<!-- .slide: data-background="img/SampleRoute01.png" data-background-size="600px" data-background-repeat="none" data-background-position="50% 90%" -->
+
+<img src="img/SampleRoute01.png" width="600px"></img>
 
 v
 
@@ -169,7 +168,8 @@ v
 1. read incoming files from a REST service
 2. pass through a queue
 3. pass it to staging table within a DB
-<!-- .slide: data-background="img/SampleRoute01.png" data-background-size="600px" data-background-repeat="none" data-background-position="50% 90%" -->
+
+<img src="img/SampleRoute01.png" width="600px"></img>
 
 v
 
@@ -181,7 +181,8 @@ v
 1. read incoming files from an FTP
 2. pass through a queue
 3. pass it to a file share
-<!-- .slide: data-background="img/SampleRoute01.png" data-background-size="600px" data-background-repeat="none" data-background-position="50% 90%" -->
+
+<img src="img/SampleRoute01.png" width="600px"></img>
 
 v
 
@@ -193,11 +194,12 @@ v
 1. read incoming files from a REST service
 2. pass through a queue
 3. pass it to staging table within a DB
-<!-- .slide: data-background="img/SampleRoute01.png" data-background-size="600px" data-background-repeat="none" data-background-position="50% 90%" -->
+
+<img src="img/SampleRoute01.png" width="600px"></img>
 
 v
 
-a-ha! the diagrams are the same! copy-and-paste mistake!
+*a-ha! the diagrams are the same! copy-and-paste mistake!*
 
 v
 
@@ -214,22 +216,22 @@ the diagrams are the same because the scenarios require the same **patterns**
 v
 
 ### Splitter
-<!-- .slide: data-background="img/Splitter.png" data-background-size="400px" data-background-repeat="none" data-background-position="85% 50%" -->
+<img src="img/Splitter.png" width="400px"></img>
 
 v
 
 ### Content-based router
-<!-- .slide: data-background="img/Router.png" data-background-size="400px" data-background-repeat="none" data-background-position="85% 50%" -->
+<img src="img/Router.png" width="400px"></img>
 
 v
 
 ### Aggregator
-<!-- .slide: data-background="img/Aggregator.png" data-background-size="400px" data-background-repeat="none" data-background-position="85% 50%" -->
+<img src="img/Aggregator.png" width="400px"></img>
 
 v
 
 ### Enricher
-<!-- .slide: data-background="img/Enricher.png" data-background-size="400px" data-background-repeat="none" data-background-position="85% 50%" -->
+<img src="img/Enricher.png" width="400px"></img>
 
 
 ## popular message patterns
@@ -237,16 +239,20 @@ v
 v
 
 ### Event message
-<!-- .slide: data-background="img/Event.png" data-background-size="400px" data-background-repeat="none" data-background-position="85% 50%" -->
+<img src="img/Event.png" width="400px"></img>
 
 v
 
 ### Command message
-<!-- .slide: data-background="img/Command.png" data-background-size="400px" data-background-repeat="none" data-background-position="85% 50%" -->
+<img src="img/Command.png" width="400px"></img>
 
 
 # now let's do some whiteboarding...
 (demo)
+
+v
+
+(nothing to see here, we are whiteboarding...)
 
 
 # tks
