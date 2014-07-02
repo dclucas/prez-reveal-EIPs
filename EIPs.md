@@ -215,13 +215,18 @@ the diagrams are the same because the scenarios require the same **patterns**
 
 v
 
-### Splitter
-<img src="img/Splitter.png" width="400px"></img>
+### Translator
+<img src="img/Translator.png" width="400px"></img>
 
 v
 
 ### Content-based router
 <img src="img/Router.png" width="400px"></img>
+
+v
+
+### Splitter
+<img src="img/Splitter.png" width="400px"></img>
 
 v
 
@@ -232,6 +237,16 @@ v
 
 ### Enricher
 <img src="img/Enricher.png" width="400px"></img>
+
+v
+
+### Content filter
+<img src="img/ContentFilter.png" width="400px"></img>
+
+v
+
+### Filter
+<img src="img/Filter.png" width="400px"></img>
 
 
 ## popular message patterns
